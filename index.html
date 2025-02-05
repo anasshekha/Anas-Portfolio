@@ -3,17 +3,129 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anas's Portfolio</title>
+    <title>Anas's Data Analytics Portfolio</title>
+    <style>
+        /* Import Google Font */
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+        /* Global Styles */
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: url('https://source.unsplash.com/1600x900/?technology,data') no-repeat center center/cover;
+            color: white;
+        }
+
+        /* Header Section */
+        .header {
+            text-align: center;
+            padding: 60px;
+            background: rgba(0, 0, 0, 0.6);
+        }
+
+        .header h1 {
+            font-size: 50px;
+            font-weight: 600;
+            margin: 0;
+        }
+
+        .header p {
+            font-size: 20px;
+            font-weight: 300;
+        }
+
+        /* Project Sections */
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 40px;
+            background: rgba(0, 0, 0, 0.7);
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.3);
+        }
+
+        h2 {
+            color: #00c9ff;
+            border-bottom: 2px solid #00c9ff;
+            padding-bottom: 10px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li {
+            margin: 10px 0;
+        }
+
+        ul li a {
+            text-decoration: none;
+            color: #00c9ff;
+            font-size: 18px;
+            font-weight: 400;
+        }
+
+        ul li a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.6);
+            font-size: 16px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 35px;
+            }
+            .header p {
+                font-size: 16px;
+            }
+        }
+    </style>
 </head>
 <body>
-    <h1>Welcome to My Portfolio</h1>
-    <h2>SQL Projects</h2>
-    <p><a href="sql_project.sql">SQL Project 1</a></p>
 
-    <h2>Python Projects</h2>
-    <p><a href="python_project.py">Python Project 1</a></p>
+    <!-- Header Section -->
+    <div class="header">
+        <h1>Welcome to My Portfolio</h1>
+        <p>SQL | Python | Tableau | Data Analytics</p>
+    </div>
 
-    <h2>Tableau Dashboards</h2>
-    <iframe src="https://public.tableau.com/views/YOUR-DASHBOARD-LINK" width="800" height="600"></iframe>
+    <!-- Portfolio Content -->
+    <div class="container">
+        <h2>📌 SQL Projects</h2>
+        <ul>
+            <li><a href="https://github.com/yourusername/anas-portfolio/blob/main/sql_project1.sql">Customer Retention Analysis</a></li>
+            <li><a href="https://github.com/yourusername/anas-portfolio/blob/main/sql_project2.sql">Sales Performance Dashboard</a></li>
+        </ul>
+
+        <h2>🐍 Python Projects</h2>
+        <ul>
+            <li><a href="https://github.com/yourusername/anas-portfolio/blob/main/python_project1.py">Data Cleaning in Pandas</a></li>
+            <li><a href="https://github.com/yourusername/anas-portfolio/blob/main/python_project2.py">Machine Learning Model</a></li>
+        </ul>
+
+        <h2>📊 Tableau Dashboards</h2>
+        <ul>
+            <li><a href="https://public.tableau.com/views/YOUR-DASHBOARD">Sales Dashboard</a></li>
+            <li><a href="https://public.tableau.com/views/YOUR-DASHBOARD">Customer Segmentation</a></li>
+        </ul>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        <p>© 2025 Anas | Connect on <a href="https://linkedin.com/in/your-profile" style="color:#00c9ff;">LinkedIn</a></p>
+    </div>
+
 </body>
 </html>
