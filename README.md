@@ -7,6 +7,6 @@ I am a **Data Analyst with 3.5 years of experience** iin transforming complex da
 
 ## 🔹 Projects  
 ### **🐍 Python Projects**  
-- **[Students Percentage Prediction](https://raw.githubusercontent.com/anasshekha/Anas-Portfolio/refs/heads/main/supervised%20learning-.ipynb)**
+- **[Students Percentage Prediction](https://github.com/anasshekha/Anas-Portfolio/blob/main/supervised%20learning-.ipynb)**
 
 
