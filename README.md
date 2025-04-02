@@ -6,8 +6,26 @@ I am a **data-driven problem solver** with a keen eye for turning numbers into m
 
 -  Passionate about **storytelling with data** and making complex information easy to understand.  
 -  Enjoy working on **real-world datasets** to drive business growth and efficiency.  
--  Constantly learning and exploring new tools to stay ahead in the **data analytics** field.  
+-  Constantly learning and exploring new tools to stay ahead in the **data analytics** field.
 
+### 🛠️ Skills & Tools  
+
+#### 📊 Data Analysis & Visualization  
+- **SQL (Expert)** | **BigQuery (Intermediate)**  
+- **Tableau** | **Power BI**  
+- Data Cleaning | Data Wrangling | Data Storytelling  
+
+#### ☁️ Cloud Technologies  
+- **Google BigQuery** (Data Warehousing & Analytics)  
+- **Google Data Studio / Looker Studio** (Dashboarding & Reporting)  
+
+#### ⚙️ Data Engineering & ETL  
+- Data Pipelines | ETL Processes  
+
+#### 📈 Business & Problem-Solving  
+- Sales & Marketing Analytics  
+- Operations & Performance Optimization  
+- Trend Analysis & Insights Generation  
 
 ## 🔹 Projects  
 ### **🐍 Python Projects**  
