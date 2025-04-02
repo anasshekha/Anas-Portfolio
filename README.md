@@ -4,9 +4,9 @@ Welcome to my Data Analytics Portfolio! This space showcases my skills in **SQL,
 ### 📌 About Me  
 I am a **data-driven problem solver** with a keen eye for turning numbers into meaningful insights. My expertise lies in uncovering trends, optimizing business strategies, and building impactful dashboards.  
 
-- 🔹 Passionate about **storytelling with data** and making complex information easy to understand.  
-- 🔹 Enjoy working on **real-world datasets** to drive business growth and efficiency.  
-- 🔹 Constantly learning and exploring new tools to stay ahead in the **data analytics** field.  
+-  Passionate about **storytelling with data** and making complex information easy to understand.  
+-  Enjoy working on **real-world datasets** to drive business growth and efficiency.  
+-  Constantly learning and exploring new tools to stay ahead in the **data analytics** field.  
 
 
 ## 🔹 Projects  
