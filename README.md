@@ -32,3 +32,10 @@ I am a **data-driven problem solver** with a keen eye for turning numbers into m
 - **[Students Percentage Prediction](https://github.com/anasshekha/Anas-Portfolio/blob/main/supervised%20learning-.ipynb)**
 
 
+### 📫 Connect with Me  
+
+📩 **Email:** [shekhaanas30@gmail.com](mailto:shekhaanas30@gmail.com)  
+💼 **LinkedIn:** [Anas Shekha](https://www.linkedin.com/in/anas-shekha-98a52a1b0/)  
+📂 **GitHub:** [AnasShekha](https://github.com/anasshekha) 
+
+
