@@ -1,4 +1,4 @@
-#🚀 Anas's Data Analytics Portfolio
+## 🚀 Anas's Data Analytics Portfolio
 Welcome to my Data Analytics Portfolio! This space showcases my skills in **SQL, Tableau, Looker Studio, and BigQuery** through real-world projects and case studies.
 
 ## 📌 About Me
